@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this specification, please cite it."
+title: "PP-SPEC-046: Proof of Efficacy Mapping to NIST SP 800-207A Cloud-Native Zero Trust"
+type: software
+authors:
+  - family-names: "Ellrod"
+    given-names: "Craig"
+version: "0.1"
+date-released: "2026-10-01"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/proofprotocol/PP-SPEC-046-nist-sp-800-207a-mapping"
+abstract: "A Proof Protocol mapping connecting NIST SP 800-207A cloud-native zero-trust context to independently generated evidence and efficacy results."
+keywords:
+  - Proof Protocol
+  - Proof of Efficacy
+  - NIST
+  - Zero Trust
+  - cloud-native
+  - evidence
