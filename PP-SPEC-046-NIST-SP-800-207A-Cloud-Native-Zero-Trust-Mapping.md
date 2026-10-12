@@ -54,7 +54,7 @@ Mapped tests may produce Proof records, ProofStamp™ timestamps, ProofBundle™
 
 ## 7. Ownership and License
 
-NIST SP 800-207A is external work. This mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
+NIST SP 800-207A is external work. This mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 ## 8. Versioning
 
